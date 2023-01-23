@@ -1,16 +1,7 @@
 ### Hi there 👋
 
-<!--
-**bedewal/bedewal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here is some information about me:
 
 - 🔭 I’m currently working on an OCR software in C
 - 🌱 I’m currently learning C
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: bewalthew@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
